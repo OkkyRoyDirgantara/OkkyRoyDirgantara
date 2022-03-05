@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OkkyRoyDirgantara
 - 👀 I’m interested in Programming and Cloud engineer
-- 🌱 I’m currently learning Amazon Web Service
+- 🌱 I’m currently learning and research
 - 💞️ I’m looking to collaborate on remote
 - 📫 How to reach me okkyroydirgantara@gmail.com
 
